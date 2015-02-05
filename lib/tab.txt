@@ -1,0 +1,2 @@
+tabTitle=添加用户信息面板,删除用户信息面板 
+className=cn.com.view.functinPanel.AddUserPanel,cn.com.view.functinPanel.DelUserPanel
